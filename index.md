@@ -12,7 +12,7 @@ I am currently interested in the algebra and geometry of (big) mapping class gro
 ## Places we may have met
 
 - **June 8 - June 12. Vanderbilt:** [Topology Students Workshop](https://margalit.droppages.net/tsw26/index.html). I highly recommend applying for this workshop!
-- **March 28 - March 28. Boston College: ** [AMS Spring sectional](https://www.ams.org/meetings/sectional/2331_special.html)
+- **March 28 - March 28. Boston College:** [AMS Spring sectional](https://www.ams.org/meetings/sectional/2331_special.html)
 - **January 26 - January 30. SL Math:** [Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups](https://www.slmath.org/workshops/1125).
 
 
