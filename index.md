@@ -23,10 +23,12 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 
 ## Teaching
 
-**University of Washington**
+**Instructor of record**
 
 - [Math 115](https://dept.math.lsa.umich.edu/courses/115/), Calculus 1, Fall 2019
 - [Math 208](https://sites.math.washington.edu/~m208/), Linear Algebra, Fall 2020
+
+**Teaching assistant**
 
 ## Service
 
@@ -34,11 +36,6 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 - Student Combinatorics Seminar, University of Washington
 - Directed Reading Program
 
-#### Journal Reviewer
-- INTEGERS
-- Electronic Journal of Combinatorics
-- Taiwanese J. Math.
-- Inventiones
 
 
 - Markdown for a math quote:
