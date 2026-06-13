@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a 4th year Ph.D. student at Boston College, advised by [Ian Biringer](https://ianbiringer.net/).
-I am originally from [Mexicali, Mexico](https://en.wikipedia.org/wiki/Mexicali), .
+I am originally from [Mexicali, Mexico](https://en.wikipedia.org/wiki/Mexicali).
 
 I am currently interested in the algebra and geometry of (big) mapping class groups.
 
@@ -15,10 +15,9 @@ I am currently interested in the algebra and geometry of (big) mapping class gro
 - **January 26 - January 30, 2026. SL Math:** [Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups](https://www.slmath.org/workshops/1125).
 
 
-## Research Interests
-
-- **Mapping Class Groups:** Normal closures of mapping classes, coarse geometry of big mapping class groups, congruence subgroups, surface braid groups and Cantor braids.
-
+## Research interests
+I am currently thinking about normal subgroups of mapping class groups. To be more specific, problems and techniques involving [normal closures of mapping classes](https://arxiv.org/abs/1805.03666), coarse geometry of big mapping class groups, congruence subgroups, surface braid groups and Cantor braids.
+One main source of motivation for my research is the paper "[Normal subgroups of big mapping class groups](https://arxiv.org/abs/2110.07839)".
 
 ## Publications
 
