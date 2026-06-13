@@ -7,7 +7,7 @@ layout: homepage
 I am a 4th year Ph.D. student at Boston College, advised by [Ian Biringer](https://ianbiringer.net/).
 I am originally from [Mexicali, Mexico](https://en.wikipedia.org/wiki/Mexicali).
 
-I am currently interested in the algebra and geometry of (big) mapping class groups.
+My research interests concern the algebra and geometry of (big) mapping class groups.
 
 ## Places we may have met
 
