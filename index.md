@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 4th year math Ph.D. candidate at Boston College, advised by [Ian Biringer](https://ianbiringer.net/).
+I am a fourth-year year math Ph.D. candidate at Boston College, advised by [Ian Biringer](https://ianbiringer.net/).
 I am originally from [Mexicali, Mexico](https://en.wikipedia.org/wiki/Mexicali).
 
 My mathematical interests are related to the algebra and geometry of (big) mapping class groups.
