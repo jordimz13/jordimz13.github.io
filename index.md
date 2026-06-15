@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a fourth-year year math Ph.D. candidate at Boston College, advised by [Ian Biringer](https://ianbiringer.net/).
-I am originally from [Mexicali, Mexico](https://en.wikipedia.org/wiki/Mexicali).
+I am originally from [Mexicali, Mexico](https://en.wikipedia.org/wiki/Mexicali). I earned my bachelor's degree at Universidad Autonoma de Nuevo Leon, and did my undergraduate thesis on the [Birman-Hilden Theorem](https://arxiv.org/abs/1703.03448) under the supervision of [Rita Jimenez Rolland](https://www.matem.unam.mx/~rita/mainEng.html).
 
 My mathematical interests are related to the algebra and geometry of (big) mapping class groups.
 
