@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 4th year Ph.D. student at Boston College, advised by [Ian Biringer](https://ianbiringer.net/).
+I am a 4th year math Ph.D. candidate at Boston College, advised by [Ian Biringer](https://ianbiringer.net/).
 I am originally from [Mexicali, Mexico](https://en.wikipedia.org/wiki/Mexicali).
 
 My mathematical interests are related to the algebra and geometry of (big) mapping class groups.
@@ -20,6 +20,18 @@ My mathematical interests are related to the algebra and geometry of (big) mappi
 I am currently thinking about normal subgroups of mapping class groups. To be more specific, problems and techniques involving [normal closures of mapping classes](https://arxiv.org/abs/1805.03666), coarse geometry of big mapping class groups, congruence subgroups, and surface braid groups.
 One main source of motivation for my research is the paper "[Normal subgroups of big mapping class groups](https://arxiv.org/abs/2110.07839)".
 
+## Talks
+**Boston College's graduate student seminar:**
+-Algebraic simplicity of homeomorphism groups.
+-Coxeter, Artin and the Salvetti complex.
+-Braid Groups.
+-The Mapping Class Groups of a genus 2 surface.
+
+**HyperboliciTea (informal geometry/topology seminar at Boston College)**
+-Normal subgroups of mapping class groups.
+-The normal closure of classical braid groups in torus braid groups.
+-The congruence subgroup problem.
+-Purely pseudo-Anosov normal subgroups of mapping class groups.
 
 ## Teaching
 
