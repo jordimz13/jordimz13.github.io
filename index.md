@@ -11,11 +11,11 @@ My mathematical interests are related to the algebra and geometry of (big) mappi
 
 ## Places we may have met
 
-- **June 8 - 12. Vanderbilt, Nashville:** [Topology Students Workshop](https://margalit.droppages.net/tsw26/index.html). I highly recommend applying for this workshop!
-- **March 28 - March 28. Boston College:** [AMS Spring sectional](https://www.ams.org/meetings/sectional/2331_special.html)
-- **January 26 - 30. SL Math, Barkeley:** [Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups](https://www.slmath.org/workshops/1125).
+- **June 8 - 12, 2026. Vanderbilt, Nashville:** [Topology Students Workshop](https://margalit.droppages.net/tsw26/index.html). I highly recommend applying for this workshop!
+- **March 28 - 29, 2026. Boston College:** [AMS Spring sectional](https://www.ams.org/meetings/sectional/2331_special.html)
+- **January 26 - 30, 2026. SL Math, Barkeley:** [Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups](https://www.slmath.org/workshops/1125).
 - **November 8, 2025. Brown, Providence:**. [GATSBY](https://sites.google.com/view/gatsby-fall-2025/)
-- **January 06 – 10. IMPA, Rio de Janeiro:** [Hyperbolic Manifolds, Their Submanifolds and Fundamental Groups](https://impa.br/eventos-do-impa/2025-2/hyperbolic-manifolds-their-submanifolds-and-fundamental-groups/)
+- **January 06 – 10, 2025. IMPA, Rio de Janeiro:** [Hyperbolic Manifolds, Their Submanifolds and Fundamental Groups](https://impa.br/eventos-do-impa/2025-2/hyperbolic-manifolds-their-submanifolds-and-fundamental-groups/)
 
 
 ## Research interests
