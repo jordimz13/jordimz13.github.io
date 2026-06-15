@@ -25,15 +25,13 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 
 **Instructor of record**
 
-- [Math1100]() Calculus 1, Fall 2026
-- [Math4453]() Euclid's Elements, Spring 2027
+- MATH1100 Calculus 1, Fall 2026
+- MATH4453 Euclid's Elements, Spring 2027
 
 **Teaching assistant**
 
 ## Service
 
-#### Organizer 
 - Graduate Student Association, Vicepresident.
-- Directed Reading Program, Mentor.
-> In the end, the love you take is equal to the love you make  
-> -- The Beatles
+- Directed Reading Program, Mentor. Projects: Introduction to mapping class groups. Surface braid groups.
+  
