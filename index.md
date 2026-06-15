@@ -49,5 +49,5 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 ## Service
 
 - Graduate Student Association, Vicepresident.
-- Directed Reading Program, Mentor. Projects: Introduction to mapping class groups. Surface braid groups.
+- Directed Reading Program, Mentor. Projects: Introduction to mapping class groups, mentee Adam Wright. Surface braid groups, mentee Angie Wu.
   
