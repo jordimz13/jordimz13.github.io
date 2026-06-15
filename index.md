@@ -30,7 +30,7 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 **Boston College's graduate student seminar:**
 - Algebraic simplicity of homeomorphism groups.
 - Coxeter, Artin and the Salvetti complex.
-- Braid Groups.
+- Braid Groups.[Notes](assets/files/Braid groups GIST.pdf).
 - The Mapping Class Groups of a genus 2 surface.
 
 **HyperboliciTea (informal geometry/topology seminar at Boston College):**
