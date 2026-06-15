@@ -27,7 +27,7 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 - Braid Groups.
 - The Mapping Class Groups of a genus 2 surface.
 
-**HyperboliciTea (informal geometry/topology seminar at Boston College)**
+**HyperboliciTea (informal geometry/topology seminar at Boston College):**
 - Normal subgroups of mapping class groups.
 - The normal closure of classical braid groups in torus braid groups.
 - The congruence subgroup problem.
