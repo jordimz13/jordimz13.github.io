@@ -30,9 +30,9 @@ linkedin: https://www.linkedin.com/in/jordi-mart/
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
- description: The academic personal homepage of Jordi Andres Martinez Alvarez.
- keywords: Jordi mathematics mapping surface braid hyperbolic geometry topology
- canonical: https://jordimartinezmath.github.io/
+# description: The academic personal homepage of Jordi Andres Martinez Alvarez.
+# keywords: Jordi mathematics mapping surface braid hyperbolic geometry topology
+# canonical: https://jordimartinezmath.github.io/
 
 
 ############################
